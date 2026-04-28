@@ -1,0 +1,6 @@
+{
+  "name": "SynthSnake",
+  "description": "A combination dark-neon Music Player and Snake Game",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
